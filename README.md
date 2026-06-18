@@ -6,10 +6,10 @@
 
 ### 💫 About Me:
 - 🔭 I’m currently working on improving my coding skills.
-- 🌱 I’m currently learning **Web Development / Data Science** (pilih salah satu atau sesuaikan).
+- 🌱 I’m currently learning **Artificial Intelligence & Software Development** at UC Makassar.
 - 👯 I’m looking to collaborate on interesting Open Source projects.
 - 💬 Ask me about anything, I'm happy to help!
-- 📫 How to reach me: [Your Email/LinkedIn Link]
+- 📫 How to reach me: alicia.lisal94@gmail.com
 
 ---
 
