@@ -5,32 +5,46 @@
 </p>
 
 ### 💫 About Me:
-- 🔭 I’m currently working on improving my coding skills.
-- 🌱 I’m currently learning **Artificial Intelligence & Software Development** at UC Makassar.
-- 👯 I’m looking to collaborate on interesting Open Source projects.
-- 💬 Ask me about anything, I'm happy to help!
+- 🔭 I’m currently working on building awesome projects with **Laravel** and **Unity**.
+- 🌱 I’m exploring the world of **AI and Machine Learning**.
+- 👯 I’m looking to collaborate on Open Source projects or Game Dev projects.
+- 💬 Ask me about Web Development, Game Design, or AI tools!
 - 📫 How to reach me: alicia.lisal94@gmail.com
 
 ---
 
 ### 🛠 Tech Stack:
+
+#### 🌐 Web Development
 <p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+#### 🎮 Game Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
+
+#### 🤖 AI & Data Science
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <!-- Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alicialisal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  
-  <!-- Streak Stats (Seringkali lebih stabil untuk menampilkan commit) -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alicialisal&theme=radical&hide_border=true" />
+  <!-- Menggunakan server alternatif untuk menghindari error "Could not get total commits" -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alicialisal&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alicialisal&theme=radical" />
 </p>
 
 ---
